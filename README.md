@@ -1,0 +1,2 @@
+# Diary2
+clone
